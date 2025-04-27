@@ -1,0 +1,53 @@
+APIキー：AIzaSyAU8HfqaS6DcKSpw2udauKTJKeegz1SCUk
+
+
+# キーワードと公式情報のマッピング
+TAG_SOURCES = [
+    {
+        "keyword": "ダスクブラッド",
+        "en": "duskbloods",
+        "official_sites": [
+            "https://www.fromsoftware.jp/duskbloods/",
+            "https://nightreign.eldenring.jp/"
+        ],
+        "official_x": "https://x.com/fromsoftware_pr",
+        "official_youtube": "https://www.youtube.com/UCCkxMbfZ80VFwwiRlIG5P5g"（UCCkxMbfZ80VFwwiRlIG5P5g）
+    },
+    {
+        "keyword": "ナイトレイン",
+        "en": "nightreign",
+        "official_sites": [
+            "https://nightreign.eldenring.jp/"
+        ],
+        "official_x": "https://x.com/fromsoftware_pr",
+        "official_youtube": "https://www.youtube.com/@FromSoftwareInc"
+    },
+    {
+        "keyword": "ニンジャガイデン",
+        "en": "ninjagaiden",
+        "official_site": "https://teamninja-studio.com/ng/jp/ng4/",
+        "official_x": "https://x.com/TeamNINJAStudio",
+        "official_youtube": "https://www.youtube.com/@TeamNINJAStudio" （UCl8iNF8pssHi5sS84XIP8-g）
+    },
+    {
+        "keyword": "デモンエクスマキナ",
+        "en": "daemonxmachina",
+        "official_site": "https://jp.daemonxmachina.com/titanicscion/",
+        "official_x": "https://x.com/dxm_info",
+        "official_youtube": "https://www.youtube.com/@MarvelousCSCH" （UCRWGKdyjOZE9zeerOPYb1qQ）
+    },
+    {
+        "keyword": "スクウェアエニックス",
+        "en": "squareenix",
+        "official_site": "https://www.jp.square-enix.com/",
+        "official_x": "https://x.com/squareenix_jp",　#メインアカウント
+        "official_x": "https://x.com/Romasaga2_PR",
+        "official_x": "https://x.com/Seiken_PR",
+        "https://x.com/OCTOPATH_PR",
+        "https://x.com/FinalFantasyJP",
+        "https://x.com/FFVIIR_CLOUD",
+        "https://x.com/lis_jpn",
+        "https://blog.jp.square-enix.com/nier/", #blogのみ
+        "official_youtube": "https://www.youtube.com/user/squareenix" （UC6SmH9mR82nj28_NNg_rZvA）
+    },
+]
